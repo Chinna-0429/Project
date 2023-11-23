@@ -11,7 +11,7 @@ This repository contains research findings and analysis on the dual nature of bu
 ## How to Use
 1. **Clone Repository:**
    ```
-   git clone https://github.com/Chinna-0429/dual-nature-of-bugs.git
+   git clone https://github.com/Chinna-0429/project.git
    ```
 
 2. **Navigate to Repository:**
